@@ -1,2 +1,2 @@
-# Chinese-Phone-Province-Lookup-Tool
-Chinese Phone Province Lookup Tool
+A lightweight Excel-based tool implemented with VBA (Visual Basic for Applications) to identify the province (and optionally the city or carrier) of a Chinese phone number based on its prefix segment. Chinese mobile numbers are 11 digits long, starting with prefixes like 13x, 15x, 17x, or 18x, and the first 7 digits determine the geographic attribution.
+This tool uses a pre-built lookup table (embedded in the Excel sheet) for quick lookups. It's useful for data validation, user profiling, or any application needing to geolocate Chinese phone numbers without external dependencies.
